@@ -2,6 +2,7 @@ import java.util.Scanner;
 11111111111
 
 
+// Task 1
 public class CalculatorInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
