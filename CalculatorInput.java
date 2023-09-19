@@ -1,5 +1,6 @@
 import java.util.Scanner;
 11111111111
+22222222
 
 
 // Task 1
